@@ -1,0 +1,33 @@
+Metadata-Version: 2.0
+Name: natasha
+Version: 0.10.0
+Summary: Named-entity recognition for russian language
+Home-page: https://github.com/natasha/natasha
+Author: Natasha contributors
+Author-email: d.a.veselov@yandex.ru
+License: MIT
+Description-Content-Type: UNKNOWN
+Keywords: natural language processing,russian morphology,named entity recognition,tomita
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Classifier: Topic :: Text Processing :: Linguistic
+Requires-Dist: yargy
+
+UNKNOWN
+
+
